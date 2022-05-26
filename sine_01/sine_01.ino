@@ -49,7 +49,7 @@ int sine_points[] = {
 
 void setup() {
   analogReference(DEFAULT);  // 5v
-  pinMode(DAC0, ANALOG);
+  pinMode(DAC0, ANALOG);  // Initialize pin as DAC
 }
 
 void loop() {
