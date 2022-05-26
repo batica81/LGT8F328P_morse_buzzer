@@ -15,10 +15,10 @@ For a very simple sine wave Morse buzzer, connect Morse key in between.
 
 ---
 
-![alt text](https://github.com/batica81/AtTinyKeyer/blob/master/board.jpg?raw=true)
+![alt text](https://github.com/batica81/LGT8F328P_morse_buzzer/blob/master/board.jpg?raw=true)
 
 
-![alt text](https://github.com/batica81/AtTinyKeyer/blob/master/sine_800hz.jpg?raw=true)
+![alt text](https://github.com/batica81/LGT8F328P_morse_buzzer/blob/master/sine_800hz.jpg?raw=true)
 
 ---
 
